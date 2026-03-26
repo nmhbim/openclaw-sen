@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** sếp
 - **Pronouns:**
 - **Timezone:** Asia/Saigon
-- **Notes:** Tên git user là nmhbim. Thích giao tiếp bằng tiếng Việt. Muốn Sen xưng em và gọi họ là sếp.
+- **Notes:** Tên git user cho workspace là con_sen. Thích giao tiếp bằng tiếng Việt. Muốn Sen xưng em và gọi họ là sếp.
 
 ## Context
 
