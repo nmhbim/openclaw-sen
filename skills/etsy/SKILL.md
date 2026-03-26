@@ -38,6 +38,7 @@ Load only the file needed for the current bottleneck to keep the workflow focuse
 | Setup flow | `setup.md` |
 | Memory template | `memory-template.md` |
 | Listing diagnostics workflow | `listing-audit-playbook.md` |
+| Sen operating layer | `references/sen-etsy-playbook.md` |
 
 ## Core Rules
 
