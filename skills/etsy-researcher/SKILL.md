@@ -35,7 +35,9 @@ Keep the skill stateless: store raw research data outside the skill directory an
    - Exclude dead patterns, policy-risk patterns, and unsupported guesses.
 
 5. Analyze with scripts when available.
-   - Use `scripts/matrix_generator.py` to convert raw CSV data into a Markdown research matrix.
+   - Use `scripts/matrix_generator.py` to convert raw CSV data into a structured research digest.
+   - Treat the script output as a shortlist and evidence summary, not a final tactical verdict.
+   - Apply agent judgment after reading the digest and `references/tactical-classification.md`.
    - If the script is missing or incomplete, perform the equivalent analysis manually and say so.
 
 6. Deliver the report.
